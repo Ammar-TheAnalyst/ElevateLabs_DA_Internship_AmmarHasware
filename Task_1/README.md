@@ -1,50 +1,51 @@
-# Task 01 – Data Cleaning and Preprocessing
+# 🧹 Task 01 – Data Cleaning and Preprocessing  
 
 ### 📅 Date: November 13, 2025  
-### 🧑‍💻 Intern: Ammar Hasware
+### 🧑‍💻 Intern: Ammar Hasware  
 
 ---
 
-## 🎯 Objective
-Clean and preprocess a raw dataset by handling missing values, duplicates, inconsistent formats, and incorrect data types using Excel.
+## 🎯 Objective  
+Clean and preprocess a raw dataset by handling missing values, duplicates, inconsistent formats, and incorrect data types using **Microsoft Excel**.  
 
 ---
 
-## 🧠 Key Steps Performed
-- Converted Patient_Id text format into understanable format.
-- Reformatted date column.
-- Standardized text formats of Gender and Neighnourhood_Names.
-- Converted values from binary form to readable form.
-- Fixed currupted characters.
-- Ensured correct data types for each column.
-- Aligned contain to the left.
+## 🧠 Key Steps Performed  
+- Converted `Patient_Id` text into a readable and consistent format.
+- Split `ScheduledDay` column into two (Day and Time) columns
+- Reformatted the `AppointmentDay` column to a standard date format.  
+- Standardized text values in `Gender` and `Neighbourhood` columns.  
+- Replaced binary values (e.g., 0/1) with descriptive text labels.  
+- Fixed corrupted or unreadable characters.  
+- Verified and corrected data types for all columns.  
+- Aligned and formatted all contain to the left.  
 
 ---
 
-## 📊 Dataset Used
-**Medical Appointment Data** – [Kaggle Link](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
+## 📊 Dataset Used  
+**Medical Appointment No Shows** – [View on Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments)  
 
 ---
 
-## 🧩 Tools Used
+## 🧩 Tools Used  
 - Microsoft Excel  
-- ChatGPT (for research and formula guidance)
+- ChatGPT (for research and formula assistance)  
 
 ---
 
-## 📈 Results
-- Over 100k records cleaned and formatted consistently.
-- Dataset ready for further analysis or visualization.
+## 📈 Results  
+- Cleaned and standardized **over 100,000 records**.  
+- Dataset is now fully prepared for further analysis and visualization.  
 
 ---
 
-## 📁 Files
-- `medical_appointment_sample.csv`
-- `cleaned_medical_appointment_sample.xlsx`
-- `README.md`
+## 📁 Files Included  
+- `medical_appointment_sample.csv`  
+- `cleaned_medical_appointment_sample.xlsx`  
+- `README.md`  
 
 ---
 
-## ✅ Submission
-Submitted on: November 13, 2025  
-Submission Link: []
+## ✅ Submission Details  
+**Submitted on:** November 13, 2025  
+**Submission Link:** [*Insert your GitHub or Google Drive folder link here*]  

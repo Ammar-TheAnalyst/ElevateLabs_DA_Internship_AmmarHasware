@@ -40,4 +40,4 @@ Source: https://www.kaggle.com/datasets/arpitagupta11/superstore-csv
 
 ## ✅ Submission Details  
 **Submitted on:** November 14, 2025  
-**Repository / Folder Link:** [Insert GitHub link]
+**Repository / Folder Link:** https://github.com/Ammar-TheAnalyst/ElevateLabs_DA_Internship_AmmarHasware/tree/main/Task%202

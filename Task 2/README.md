@@ -33,6 +33,7 @@ Source: https://www.kaggle.com/datasets/arpitagupta11/superstore-csv
 ## 📁 Deliverables  
 - `Sample - Superstore.xlsx`  
 - `Sample - Superstore dashboard.png`
+- `storytelling script.png`
 - `README.md`
 
 ---

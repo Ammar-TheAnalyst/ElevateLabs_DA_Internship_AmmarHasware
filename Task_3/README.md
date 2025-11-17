@@ -1,23 +1,31 @@
-Task 03 – SQL for Data Analysis
-
-📅 Date: November 14, 2025
+🧹 Task 01 – Data Cleaning and Preprocessing
+📅 Date: November 13, 2025
 🧑‍💻 Intern: Ammar Hasware
-🎯 Objective: Use SQL queries to extract and analyze data from an e-commerce database.
+🎯 Objective
+Clean and preprocess a raw dataset by handling missing values, duplicates, inconsistent formats, and incorrect data types using Microsoft Excel.
 
+🧠 Key Steps Performed
+Converted Patient_Id text into a readable and consistent format.
+Split ScheduledDay column into two (Day and Time) columns
+Reformatted the AppointmentDay column to a standard date format.
+Standardized text values in Gender and Neighbourhood columns.
+Replaced binary values (e.g., 0/1) with descriptive text labels.
+Fixed corrupted or unreadable characters.
+Verified and corrected data types for all columns.
+Aligned and formatted all contain to the left.
 📊 Dataset Used
+Medical Appointment No Shows – View on Kaggle
 
-Dataset Name: Ecommerce_SQL_Database
-
-Files: Customers.csv, OrderItems.csv, Orders.csv, Payments.csv, Products.csv
-
-Source: OpenDataBay
-
-🧩 Tools & Technologies
-
-Database: MySQL
-
-Project Management: GitHub
-
-Query Assistance & Sample Questions: ChatGPT
-
-🧠 SQL / Data Analysis Questions
+🧩 Tools Used
+Microsoft Excel
+ChatGPT (for research and formula assistance)
+📈 Results
+Cleaned and standardized over 100,000 records.
+Dataset is now fully prepared for further analysis and visualization.
+📁 Files Included
+medical_appointment_sample.csv
+cleaned_medical_appointment_sample.xlsx
+README.md
+✅ Submission Details
+Submitted on: November 13, 2025
+Submission Link:

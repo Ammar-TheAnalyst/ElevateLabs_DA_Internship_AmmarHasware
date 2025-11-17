@@ -11,9 +11,9 @@ Use SQL queries to extract and analyze data from a database.
 ---
 
 ## 📊 Dataset Used  
-Dataset Name: Ecommerce_SQL_Database
-Files: Customers.csv, OrderItems.csv, Orders.csv, Payments.csv, Products.csv 
-Source: https://www.opendatabay.com/data/consumer/7f21cfbe-afa0-421c-972e-71ae08d85e8d?utm_
+- Dataset Name: Ecommerce_SQL_Database
+- Files: Customers.csv, OrderItems.csv, Orders.csv, Payments.csv, Products.csv 
+- Source: https://www.opendatabay.com/data/consumer/7f21cfbe-afa0-421c-972e-71ae08d85e8d?utm_
 
 ---
 

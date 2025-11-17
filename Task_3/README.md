@@ -1,4 +1,4 @@
-# Task 02 – SQL for Data Analysis
+# Task 03 – SQL for Data Analysis
 
 ### 📅 Date: November 17, 2025  
 ### 🧑‍💻 Intern: Ammar Hasware
@@ -47,4 +47,4 @@ Source: https://www.opendatabay.com/data/consumer/7f21cfbe-afa0-421c-972e-71ae08
 
 ## ✅ Submission Details  
 **Submitted on:** November 17, 2025  
-**Folder Link:** [Insert GitHub link]
+**Folder Link:** https://github.com/Ammar-TheAnalyst/ElevateLabs_DA_Internship_AmmarHasware/tree/main/Task_3

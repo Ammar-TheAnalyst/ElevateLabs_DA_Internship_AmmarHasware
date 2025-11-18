@@ -38,9 +38,14 @@ Use SQL queries to extract and analyze data from a database.
 
 ## 📁 Deliverables  
 - `Ecommerce_SQL_Database.sql`  
-- `Screenshot 2025-11-17 181320.png`  
-- `Screenshot 2025-11-17 181320.png`
 - `Screenshot 2025-11-17 192740.png`  
+- `Screenshot 2025-11-17 292740.png`
+- `Screenshot 2025-11-17 360549.png`
+- `Screenshot 2025-11-17 460758.png`
+- `Screenshot 2025-11-17 560934.png`
+- `Screenshot 2025-11-17 661036.png`
+- `Screenshot 2025-11-17 761253.png`
+- `Screenshot 2025-11-17 8861515.png`  
 - `README.md`
 
 ---

@@ -17,8 +17,8 @@ Design an interactive dashboard for business stakeholders.
 ---
 
 ## 📊 Dataset Used
-Dataset: sales_data_sample.csv
-Link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+- Dataset: sales_data_sample.csv
+- Link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 
 ---
 

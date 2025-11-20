@@ -19,7 +19,7 @@ Extract insights using visual and statistical exploration.
 
 ## 📊 Deliverables
 - `Titanic Survival Report.pdf`   
-- *`TitanicAnalysis.ipynb`
+- `TitanicAnalysis.ipynb`
 ---
 
 ## 🔍 Tools Used

@@ -1,4 +1,4 @@
-# Task 07 – 
+# Task 07 – Get Basic Sales Summary from a Tiny SQLite Database using Python
 
 ### 📅 Date: November 24, 2025  
 ### 🧑‍💻 Intern: Ammar Hasware

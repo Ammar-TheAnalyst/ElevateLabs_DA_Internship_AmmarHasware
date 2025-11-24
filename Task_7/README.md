@@ -18,6 +18,11 @@ Use SQL inside Python to pull simple sales info (like total quantity sold, total
 
 ---
 
+## 📊 Dataset Used
+Dataset: Created a small SQLite database file (marvel_sales)
+
+---
+
 ## 📊 Deliverables
 `marvel_sales.ipynb`
 

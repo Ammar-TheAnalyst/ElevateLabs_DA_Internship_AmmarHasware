@@ -1,5 +1,5 @@
 
-# Task 8 – Simple Sales Dashboard Design
+# Task 08 – Simple Sales Dashboard Design
 
 ### 📅 Date: November 25, 2025  
 ### 🧑‍💻 Intern: Ammar Hasware

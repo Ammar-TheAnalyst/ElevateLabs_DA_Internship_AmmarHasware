@@ -37,7 +37,8 @@ Analyze startup investment trends using Shark Tank India datasets
     - Investor-wise Investment
 
 - Generated KPIs and slicers for deep analysis.
---
+
+---
 
 ## 🧠 Key Learnings
 - Designing interactive dashboards with drill-through

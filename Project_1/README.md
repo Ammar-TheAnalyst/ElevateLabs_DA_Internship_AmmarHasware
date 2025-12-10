@@ -23,7 +23,7 @@ Analyze startup investment trends using Shark Tank India datasets
 - Category-wise performance of pitches
 - Insights into pitchers, ideas, and funding amounts
 
---
+---
 
 ## 🔧 Data Cleaning & Preparation Steps
 

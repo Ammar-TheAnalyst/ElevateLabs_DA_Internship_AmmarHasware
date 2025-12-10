@@ -57,8 +57,9 @@ Analyze startup investment trends using Shark Tank India datasets
 ---
 
 ## 📊 Deliverables
-- `Titanic Survival Report.pdf`   
-- `TitanicAnalysis.ipynb`
+- `SharkTankIndia.ipynb`
+- `ShakTankAnalysisDashboard.png`
+- `Shark Tank Investment Report.pdf`
 ---
 
 ## 🔍 Tools Used

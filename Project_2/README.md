@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-Used%20for%20Cleaning%20and%20analysis-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 # Project 02 – YouTube Trending Video Analytics

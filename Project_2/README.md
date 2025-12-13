@@ -47,14 +47,14 @@ Uncover patterns in trending videos by analyzing YouTube datasets across region.
 ---
 
 ## 📊 Deliverables
-- `SharkTankIndia.ipynb`
-- `ShakTankAnalysisDashboard.png`
-- `Shark Tank Investment Report.pdf`
+- `youtube_trend.ipynb`
+- `avg_views.png`
+- `tableau_visialization.png`
+- `YouTube Trending Project Report.pdf`
 ---
 
 ## 🔍 Tools Used
-- Python
-- Labraries: Pandas, VADER Sentiment Analyzer
+- Python (Pandas, VADER Sentiment Analyzer)
 - SQL (MySQL)
 - Tableau
 
@@ -62,5 +62,5 @@ Uncover patterns in trending videos by analyzing YouTube datasets across region.
 
 ## ✅ Submission
 Submitted on: 2025  
-Submission Link: https://github.com/Ammar-TheAnalyst/ElevateLabs_DA_Internship_AmmarHasware/edit/main/Project_1/
+Submission Link: https://github.com/Ammar-TheAnalyst/ElevateLabs_DA_Internship_AmmarHasware/edit/main/Project_2/
 

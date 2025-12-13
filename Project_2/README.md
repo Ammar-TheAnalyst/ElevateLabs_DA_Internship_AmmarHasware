@@ -1,4 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-Used%20for%20Cleaning%20and%20analysis-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-For%20furthur%20analysis-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
